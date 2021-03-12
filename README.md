@@ -9,4 +9,4 @@ Components
 * BC337 - NPN Transistor
 * Jumper cables
 
-![Image of Yaktocat](https://github.com/RujoiRazvan/led_toggle_with_tranzistor/blob/a81f0d59e185cc9ae96acc29876f01d3175654ff/2.jpg)
+![Image of Yaktocat](https://github.com/RujoiRazvan/toggle_LED_with_tranzistor/blob/b36b90f1e5d1ea35ec9a2a9ec987254931720c81/1.jpg)
