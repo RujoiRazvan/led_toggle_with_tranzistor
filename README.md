@@ -1,3 +1,2 @@
 # led_toggle_with_tranzistor
-
-![alt text](https://github.com/[RujoiRazvan]/[led_toggle_with_tranzistor]/blob/[branch]/2021-03-12 15.30.36 IMG_6404.JPG.jpg?raw=true)
+![Image of Yaktocat](https://github.com/RujoiRazvan/led_toggle_with_tranzistor/blob/a81f0d59e185cc9ae96acc29876f01d3175654ff/2.jpg)
