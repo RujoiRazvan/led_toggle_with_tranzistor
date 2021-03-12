@@ -1,4 +1,4 @@
-# Led toggle by button
+# Led toggle by button using a transistor
 ## My first project with a transistor
 
 Components
