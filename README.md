@@ -12,8 +12,8 @@ Components
 * Jumper cables
 * 9V Battery
 
-![Image of Yaktocat](https://github.com/RujoiRazvan/toggle_LED_with_tranzistor/blob/b36b90f1e5d1ea35ec9a2a9ec987254931720c81/1.jpg)
+![Breadboard schematic](https://github.com/RujoiRazvan/toggle_LED_with_tranzistor/blob/b36b90f1e5d1ea35ec9a2a9ec987254931720c81/1.jpg)
 
-![Image of Yaktocat]()
+![Schematic from pspice]()
 
 
