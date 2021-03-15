@@ -1,7 +1,7 @@
 # Led toggle by button using a transistor
 ## My first project with a transistor
 
-If the button is pressed, the red light is turned on and in rest of time, the green led is turned on and the red led is off.
+If the button is pressed, the green light is turned on and in rest of time, the red led is turned on and the green led is off.
 
 Components
 * PushButton
