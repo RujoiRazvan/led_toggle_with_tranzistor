@@ -3,7 +3,7 @@
 
 If the button is pressed, the green light is turned on and in rest of time, the red led is turned on and the green led is off.
 
-Components
+Components:
 * PushButton
 * Green and Orange Led - 5mm
 * 2x 1kOhm Resistor
