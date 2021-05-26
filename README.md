@@ -14,6 +14,6 @@ Components:
 
 ![Breadboard schematic](https://github.com/RujoiRazvan/toggle_LED_with_tranzistor/blob/b36b90f1e5d1ea35ec9a2a9ec987254931720c81/1.jpg)
 
-![Schematic from pspice]()
+![Schematic from Proteus](https://github.com/RujoiRazvan/toggle_LED_with_transistor/blob/96d70e519b72d176061d6747b20b674c8569a68e/Schema%20electrica.png)
 
 
