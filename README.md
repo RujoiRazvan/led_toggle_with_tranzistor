@@ -10,7 +10,7 @@ Components:
 * 2x 1kOhm Resistor
 * 1x 10kOhm Resistor
 * BC337 - NPN Transistor
-* Jumper cables
+* PCB Connector
 * 9V Battery
 
 ![Breadboard schematic](https://github.com/RujoiRazvan/toggle_LED_with_transistor/blob/67f9f3a5f3a48759597e39d3d95d876368e8d507/PCB%203D%20Viewer.png)
