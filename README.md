@@ -16,4 +16,6 @@ Components:
 
 ![Schematic from Proteus](https://github.com/RujoiRazvan/toggle_LED_with_transistor/blob/96d70e519b72d176061d6747b20b674c8569a68e/Schema%20electrica.png)
 
+![Schematic from Proteus](https://github.com/RujoiRazvan/toggle_LED_with_transistor/blob/7e6d6b458e5a6ca8b93a47431d375a4bd9781702/Switch%20cuplat.png)
+
 
