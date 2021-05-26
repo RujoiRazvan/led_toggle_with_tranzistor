@@ -2,7 +2,7 @@
 ## My first project with a transistor
 
 If the button is pressed, the green light is turned on and in rest of time, the red led is turned on and the green led is off.
-Simulation made in Proteus 8.
+Simulation made in Proteus 8 and the PCB Design is made in KiCad
 
 Components:
 * PushButton
